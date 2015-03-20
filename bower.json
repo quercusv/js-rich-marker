@@ -3,9 +3,10 @@
   "version": "0.0.1",
   "homepage": "https://github.com/quercusv/js-rich-marker",
   "authors": [
-    "Keith Brown <keith@austintreeexperts.com>"
+    "Keith Brown <keith@austintreeexperts.com>",
+    "Brendan Kinney"
   ],
-  "description": "fork of brendan js-rich-marker",
+  "description": "fork of brendan kenney's js-rich-marker",
   "main": "src/richmarker.js",
   "moduleType": [
     "globals"
