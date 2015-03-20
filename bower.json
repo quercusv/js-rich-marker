@@ -1,0 +1,26 @@
+{
+  "name": "js-rich-marker",
+  "version": "0.0.1",
+  "homepage": "https://github.com/quercusv/js-rich-marker",
+  "authors": [
+    "Keith Brown <keith@austintreeexperts.com>"
+  ],
+  "description": "fork of brendan js-rich-marker",
+  "main": "src/richmarker.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "google",
+    "rich",
+    "marker"
+  ],
+  "license": "APACHE 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
